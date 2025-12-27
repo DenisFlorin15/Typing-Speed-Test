@@ -3,8 +3,7 @@
 An interactive Desktop Application built with Python and Tkinter that measures your typing speed (WPM) and accuracy in real-time. This project highlights the transition from CLI scripts to Event-Driven Graphical User Interfaces (GUI).
 
 ## 🖼️ Preview
-![App Screenshot](screenshot.png) 
-*(Note: Replace 'screenshot.png' with the actual name of your image file uploaded to GitHub)*
+![App Screenshot](Screenshot.png) 
 
 ---
 
