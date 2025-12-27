@@ -1,6 +1,6 @@
 # ⌨️ Speed Typing Test App
 
-An interactive Desktop Application built with Python and Tkinter that measures your typing speed (WPM) and accuracy in real-time. This project highlights the transition from CLI scripts to Event-Driven Graphical User Interfaces (GUI).
+An interactive Desktop Application built with Python and Tkinter that measures your typing speed (WPM) and accuracy. This project highlights the transition from CLI scripts to Event-Driven Graphical User Interfaces (GUI).
 
 ## 🖼️ Preview
 ![App Screenshot](Screenshot.png) 
@@ -8,7 +8,7 @@ An interactive Desktop Application built with Python and Tkinter that measures y
 ---
 
 ## ✨ Features
-- **Real-time WPM Calculation:** Instantly calculates your Words Per Minute as you type.
+- **Real-time WPM Calculation:** Calculates your Words Per Minute.
 - **Accuracy Tracking:** Provides feedback on your typing precision.
 - **Visual Feedback:** Uses dynamic UI updates to show progress and results.
 - **Local Highscore System:** Saves your best performance in a `highscore.txt` file (managed via `.gitignore` to keep your records private).
@@ -36,7 +36,7 @@ An interactive Desktop Application built with Python and Tkinter that measures y
 ## 🧠 Learning Outcomes
 - GUI Development: Designing and managing widgets (Buttons, Labels, Text entries) in Tkinter.
 
-- Event Handling: Capturing keyboard events to trigger logic in real-time.
+- Event Handling: Capturing keyboard events to trigger logic.
 
 - Data Persistence: Reading and writing to local files for highscore tracking.
 
